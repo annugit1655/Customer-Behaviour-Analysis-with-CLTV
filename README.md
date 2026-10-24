@@ -9,21 +9,21 @@
 
 
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 | Category | Technologies |
-|:---|---:|
+|:---|:---|
 | Programming Language | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
+| Data Analysis & Manipulation | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
 | Dimensionality Reduction | PCA, MDS |
 | Statistical Analysis | Statsmodels |
 | Text Visualization | WordCloud |
-| Clustering Visualization | Dendrogram |
+| Clustering Visualization | Dendrograms |
 | Machine Learning | Scikit-learn |
-| Gradient Boosting | XGBoost |
-| Model Explainability | SHAP |
-| Hyperparameter Tuning | GridSearchCV |
+| Machine Learning Models | Random Forest, Linear Regression, XGBoost |
+| Customer Segmentation | RFM Analysis, Clustering |
+| Probabilistic Modeling & CLTV | Lifetimes |
 | Web Application | Streamlit |
 | Version Control | Git, GitHub |
 
@@ -60,4 +60,36 @@ run all notebooks 01-Data-Preparation.ipynb to 09-CLTV-Probabilistic-models.ipyn
 ---
 ## ⭐ Support
 If you found this project useful, consider giving it a ⭐ Star on GitHub. It helps others discover the project and supports future improvements.
+
+### 📚 Citation
+If you use this project in academic research, publications, educational materials, or derivative works, please cite it and provide appropriate credit to the original author.
+
+This repository includes a `CITATION.cff` file, so GitHub provides a "**Cite this repository**" button in the repository sidebar. You can use it to obtain citations in BibTeX, APA, and other supported formats.
+
+Yadav, Annu. (2026). End-to-End Customer Personality Analysis & Customer Intelligence (Version 1.0) [Software]. GitHub.
+
+```bash
+https://github.com/annugit1655/Customer-Behaviour-Analysis-with-CLTV
+```
+Author: Yadav Annu
+
+GitHub: https://github.com/annugit1655/Customer-Behaviour-Analysis-with-CLTV
+
+Contact: ayannu1655@gmail.com
+
+If you build upon this work, attribution is appreciated and helps others discover the original project.
+
+Note: The MIT License requires that the original copyright notice be retained in copies of the Software.
+
+### 📜 License
+
+© 2026 Yadav Annu.
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/annugit1655/Customer-Behaviour-Analysis-with-CLTV/blob/main/LICENSE) file for details.
+
+
+
+
+
+
 

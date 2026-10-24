@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "End-to-End Customer Personality Analysis & Customer Intelligence"
+message: "If you use this project in your research, publication, or educational work, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Yadav"
+    given-names: "Annu"
+    affiliation: "Data Scientist"
+
+repository-code: "https://github.com/annugit1655/Customer-Behaviour-Analysis-with-CLTV"
+
+license: "MIT"
+
+abstract: >
+  An end-to-end customer analytics project exploring customer demographics, spending habits, purchasing behavior, 
+  family structure, marketing campaign effectiveness, RFM segmentation, high-value customer prediction, Pareto analysis, 
+  and probabilistic Customer Lifetime Value modeling.
+
+keywords:
+  - Data Science
+  - Machine Learning
+  - Python
+  - Data Analysis
+  - Portfolio
+  - Pareto Analysis
+  - Customer Personality Analysis
+  - Customer Segmentation
+  - RFM Analysis
+  - Customer Lifetime Value
+  - Marketing Analytics
+  
+
+date-released: "2026-10-25"
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Yadav"
+      given-names: "Annu"
+  title: "End-to-End Customer Personality Analysis & Customer Intelligence"
+  year: 2026
+  url: "https://github.com/annugit1655/Customer-Behaviour-Analysis-with-CLTV"
