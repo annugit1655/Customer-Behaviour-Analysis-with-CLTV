@@ -1,4 +1,6 @@
-#  🎯 **End-to-End Customer Personality Analysis & Customer Intelligence**
+#  🎯 **End-to-End Customer Analystics & Marketing Intelligence**
+
+![Customer-Behaviour-Analysis](customer_behaviour_analysis_banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-LATEST-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -7,7 +9,44 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Stars](https://img.shields.io/badge/Stars-0-lightgrey?logo=github) ![Forks](https://img.shields.io/badge/Forks-0-lightgrey?logo=git) ![Repo Size](https://img.shields.io/badge/Repo%20Size-44.91%20MiB-blue)
 
+An end-to-end customer analytics **machine learning project** that explores the **customer behaviour & marketing intelligence**.
 
+## 📌 Project Overview
+
+Understanding the customer behaviours in terms of spending and purchasing is a challenging task & till how long this pattern will continue adds up a , customer behaviour depend on various factors, including demographic, total spending, purchase channel, products, etc,.
+
+This project focuses on predicting customer lifetime value using **Python, Scikit-learn, unsupervised ML, SHAP, Lifetimes** & covers the end-to-end machine learning workflow, including:
+
+- 🧹 **Data Preparation**
+- 💰 **Spending Habits Analysis**
+- 🛒 **Purchasing Behaviour Analysis**
+- 📢 **Marketing Campaign Analysis**
+- 🎯 **Customer Segmentation & Recommendations**
+- 💎 **High-Value Customers Analysis**
+- 📊 **Pareto Analysis (80/20 Rule)**
+- 💵 **Customer Lifetime Value Analysis (CLTV)**
+
+
+## 📁 Dataset
+
+Source: [Kaggle - Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+![Customer-dataset](customer-banner-image.jpg)
+
+## 📊 **Customer Segmentation** 
+
+## 💎 **High-Value Customers & Pareto Analysis**
+
+<p align="center">
+  <img src="images/Frequency_Recency_Highvalue_customers.png" width="48%" />
+  <img src="images/Pareto_analysis.png" width="48%" />
+</p>
+
+💡 __Business Insights Derived__
+1. **The 80/20 Rule is Real:** A Pareto analysis of the dataset revealed that the top 20% of customers generate the vast majority of total revenue.
+2. **Frequency > Recency:** The Random Forest model proved that getting a customer to buy multiple times is a much stronger indicator of a "Whale" (high-value client) than simply having bought recently.
+
+
+## 💰 **Customer Lifetime Value (CLTV)**
 
 ## 🛠️ Tech Stack
 
